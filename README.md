@@ -1,1 +1,1 @@
-I code in C, C#, Java, JavaScript. I also know CSS and HTML and program arduino boards.
+I code in C, C#, Java, JavaScript. I also know HTML, CSS and program arduino boards.
